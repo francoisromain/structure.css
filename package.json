@@ -1,0 +1,20 @@
+{
+  "name": "structure.css",
+  "version": "0.7.0",
+  "style": "structure.css",
+  "description": "Deprecated: check system.css",
+  "keywords": [
+    "postcss",
+    "css"
+  ],
+  "author": "Francois Romain <francoisromain@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/francoisromain/structure.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/francoisromain/structure.css/issues"
+  },
+  "homepage": "http://francoisromain.github.io/structure.css/"
+}
