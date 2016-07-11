@@ -1,8 +1,8 @@
 {
   "name": "structure.css",
-  "version": "0.7.1",
+  "version": "0.8.0",
   "style": "structure.css",
-  "description": "Deprecated. Check system.css.",
+  "description": "Deprecated. Check postcss-structure.",
   "keywords": [
     "postcss",
     "css"

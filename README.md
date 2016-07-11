@@ -1,1 +1,1 @@
-This was deprecated and replaced by [system.css](https://github.com/francoisromain/system.css).
+This was deprecated and replaced by [postcss-structure](https://github.com/francoisromain/postcss-structure).
